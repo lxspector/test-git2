@@ -5,3 +5,6 @@ git commit -m "комментарий"
 git log
 git log --oneline
 git push ссылка ветка
+
+git branch
+git checkout
